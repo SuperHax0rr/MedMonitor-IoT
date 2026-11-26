@@ -2,6 +2,10 @@
 
 An ESP32-based IoT multi-parameter health monitoring system that collects physiological and environmental data using multiple sensors and displays the readings through a live Python web dashboard.
 
+<p align="center">
+  <img src="images/circuit_design.png" width="700">
+</p>
+
 ## Overview
 
 MedMonitor is an electronics and IoT project designed to monitor multiple parameters simultaneously using an ESP32 microcontroller.
