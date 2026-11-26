@@ -185,19 +185,6 @@ The firmware uses two primary message formats:
 
 The Python application parses these messages and updates the dashboard.
 
-## Project Structure
-
-```text
-MedMonitor-IoT/
-│
-├── medmonitor_sensors/
-│   └── ESP32 firmware and sensor test sketches
-│
-├── medmonitor_db.py
-│
-└── README.md
-```
-
 ## Limitations and Safety
 
 - This project is an educational prototype, not a certified medical device.
