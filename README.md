@@ -130,7 +130,7 @@ Voltage divider configuration:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MedMonitor-IoT.git
+git clone https://github.com/SuperHax0rr/MedMonitor-IoT.git
 cd MedMonitor-IoT
 ```
 
